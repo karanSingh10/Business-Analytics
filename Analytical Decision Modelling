@@ -1,0 +1,32 @@
+Decision making under uncertainity
+One of the main reasons why decision making under uncertainty is difficult is that decisions have to be made before uncertain outcomes are revealed. 
+For example, you must place your bet at a roulette wheel before the wheel is spun. 
+Or you must decide what type of auto insurance to purchase before you find out whether you will be in an accident. 
+However, before you make a decision, you must at least list the possible outcomes that might occur. 
+In some cases, the outcomes will be a small set of discrete possibilities, such as the 11 possible sums (2 through 12) of the roll of two dice. 
+In other cases, the outcomes will be a continuum of possibilities, such as the possible damage amounts to a car in an accident. 
+In this chapter, we generally allow only a small discrete set of possible outcomes. 
+If the actual set of outcomes is a continuum, then we typically choose a small set of representative outcomes from this continuum.
+
+Uncertainities are involved in making e=decisions
+First need to come up with all the decision options we have, then we need to come up with a probability associated with that decision and it is very general that
+that each decision will be associated with a different probability value
+Then we calculate expected value for each decision using actual result or payoff or cost associsated with each decision and probability of each decision.
+
+Decision Trees
+A decision problem evolves through time. 
+A decision is made, then an uncertain outcome is observed, then another decision might need to be made, then another uncertain outcome might be observed, and so on. 
+All the while, payoffs are being received or costs are being incurred. 
+It is useful to show all of these elements of the decision problem, including the timing, in a type of graph called a decision tree. 
+A decision tree not only allows everyone involved to see the elements of the decision problem in an intuitive format, 
+but it also provides a straightforward way of making the necessary EMV calculations.
+
+Excel addin (Precision Trees)
+
+Single stage decisions
+Multi stage decisions
+
+Value of information
+
+Baye's Rule
+Probability Approach
