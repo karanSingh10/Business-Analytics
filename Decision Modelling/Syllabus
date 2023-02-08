@@ -1,0 +1,91 @@
+Scope 
+ 
+This course is the sequel to Analytical Decision Modeling I where the focus is on deterministic modeling and analysis. We 
+shift the emphasis to problems where uncertainty is an important factor, or stochastic modeling and analysis. We will 
+learn how to use mathematical modeling and analysis via Excel and Python as a means to better decisions.  
+ 
+How does this course relate to and complement other courses in the MSBA program? One way to view MSBA program 
+content is according to three broad categories: (1) data preparation (e.g., collection, cleansing, organizing), (2) pattern 
+detection or description/prediction, (3) translating patterns into strategies and actions or prescription.  
+ 
+“prescriptive machine learning is developing fast, especially in the fields of computer science/AI, electrical 
+engineering, and statistics” 1 
+ 
+This course mainly falls in the third category, prescription. We start with knowledge of relationships (e.g., how changes in 
+product/service attributes affect demand, estimates of mean and variance of competitor response to a bid, etc.) and use 
+these relationships to design models to help identify management choices that positively affect such measures as risk 
+exposure, profit, and market share. 
+ 
+Course Objectives and Learning Outcomes 
+ 
+The overarching goal of this course is to understand concepts and methods of analytic decision making under uncertainty, 
+and to develop your spreadsheet skills for analysis of business problems. By the end of the course, you will be able to: 
+ 
+1. Apply modeling concepts to extract insight for communicating, persuading, and motivating change. 
+2. Design, build, test, and use Excel spreadsheets effectively for analysis. 
+3. Design,  build,  and  interpret  decision  trees  using  PrecisionTree,  simulation  models  using  @Risk  and  SimPy,  and  
+stochastic optimization models, e.g., via @Risk with RiskOptimizer. 
+ 
+W.P. Carey Learning Goals 
+ 
+The  W.P.  Carey  School  of  Business  has  established  the  following learning  goals  for  its  graduate  students.  Items  in  bold  
+have significant coverage in this course. 
+ 
+1. Critical Thinking 
+2. Communication 
+3. Discipline Specific Knowledge 
+4. Ethical Leadership or Global Leadership 
+ 
+ 
+  
+ 1 Song JS, van Houtum GJ, Van Mieghem JA (2020) Capacity and inventory management: review, trends, and projections. Manufacturing & Service 
+Operations Management to appear. 
+2 
+ 
+Materials 
+ 
+• Text (same as SCM 518): Winston, W., S.C. Albright. 2019. Practical Management Science, 6th edition, Cengage.2 
+Cengage hosts office hours at https://info.cengage.com/OfficeHours_West_Pulido between 1pm -3pm every 
+weekday between 1/3 – 2/28. They answer your questions regarding course material registration, etc. 
+• Software: Palisades (i.e., PrecisionTree, @Risk) add-ins for Excel and Python (particularly the SimPy library for 
+discrete event simulation).  
+• About the installation of the Palisades software: 
+• Palisades Excel add-ins are available for installation on a PC with purchase of the textbook. For windows users, 
+you can easily download and install the software. Unfortunately, this does not work with Mac users.  
+• Alternatively, use the link: https://go.palisade.com/TVCengage_Registration.html?isbn=9781337406659 
+• If you are a Mac user, I recommend that you use emulation programs such as Bootcamp or Parallel to install 
+Windows and then install the Palisades Excel add-ins. Bootcamp is available through Creativity Commons.  
+• For Mac users, if at all possible, install the necessary emulation software on your machine so that you can install and 
+run Palisades software on your Mac. If not possible, the software is also available through Citrix.  
+• This documentation (https://simpy.readthedocs.io/en/latest/topical_guides/simpy_basics.html) regarding the SimPy 
+library in Python may also be useful. 
+• I also recommend the following links: http://www.palisade.com/ and http://www.analytics-magazine.org/. Both contain 
+descriptions (including videos) of how methods/software from class are used at different companies and nonprofits. 
+ 
+Grading 
+ 
+• Exam 1       12% 
+• Exam 2 (cumulative)   24% 
+• Exam 3 (cumulative)   24%  
+• 10 problems – learning    15% 
+• 4 problems – assessment    5%  
+• Group case assignment    20%  
+ 
+Exams        60% 
+ 
+All exams are timed multiple-choice via Canvas and are available during a specified time window. There are no make-
+up exams. Exams must be prepared individually with no help from or communication with others until after the due 
+date.  
+ 
+Exam 1 contains 10 questions. Exam 2 and 3, which are cumulative, contain 20 questions. The 50 exam questions 
+contribute 60% to your grade. However, 10% of the exam questions (i.e., 5 questions) are dropped when computing 
+your overall exam score (e.g., if you miss 10 out of the 50 questions, your overall exam score is 91 = 100 × (60-10)/55; 
+the maximum possible score is 100). Further details on exam format, coverage, and preparation suggestions are 
+available on Canvas. 
+ 
+Problem sets – learning (PSL)  15% 
+ 
+There are 10 PSL problem sets during the term that are structured to promote learning. Each problem set contains 3 
+problems and each student submits 1 randomly assigned problem from the set. Your submitted problem will not be 
+graded for correctness; it will be graded for completeness and timely completion. The purpose of these assigned 
+problems is to promote learning, not to assess knowledge. These problem sets give you practice working through
