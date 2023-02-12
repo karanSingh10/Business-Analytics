@@ -1,0 +1,6 @@
+Pt = Pt-s*exp[(u-0.5*sigma^2)*s + sigma*Z*SQRT(s)]
+u = mean percentage growth per year
+sigma  = standard deviation of growth rate / volatility
+Z = normally distributed random variable with mean 0 and standard deviation 1
+Pt = Price at time t
+Pt-s = Price at time s time periods ago
