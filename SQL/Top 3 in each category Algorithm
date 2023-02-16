@@ -1,0 +1,3 @@
+SELECT * FROM (SELECT QUARTER3, sold_quantity, ROW_NUMBER() OVER (PARTITION BY QUARTER3 ORDER BY sold_quantity DESC) AS total_sold_qty
+FROM fact_sales_monthly) sold_qty
+WHERE total_sold_qty <= 3
